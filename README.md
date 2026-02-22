@@ -1,2 +1,3 @@
 # laboratorio-de-computacao
-Estudos práticos práticos da disciplina de LCA (Laboratório de Computação Aplicada) sobre Linguagem C (structs e lógica), Arquitetura de Computadores e Prototipagem com Arduino. 
+
+Repositório dedicado a armazenar conteúdos e estudos práticos da disciplina Laboratório de Computação Aplicada.
