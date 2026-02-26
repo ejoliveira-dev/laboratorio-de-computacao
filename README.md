@@ -1,3 +1,3 @@
-# laboratorio-de-computacao
+# estudos-c
 
-Repositório dedicado a armazenar conteúdos e estudos práticos da disciplina Laboratório de Computação Aplicada, envolvendo principalmente Linguagem C e Prototipagem com Arduino.
+Repositório dedicado ao armazenamento de quaisquer exercícios/projetos/resumos em forma de código sobre Linguagem C.
